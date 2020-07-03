@@ -1,16 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sidey</title>
+ <title>Adinonymous</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-03T15:05:30+05:30</updated>
+ <updated>2020-07-03T23:18:50+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Lessons learnt from uploading art on instagram</title>
+   <link href="http://localhost:4000/2020/07/03/lessons-from-art-instagram"/>
+   <updated>2020-07-03T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2020/07/03/lessons-from-art-instagram</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;This blog summarizes the general change in my thought process and lessons learnt from uploading art on instagram and growing an account from 0 to currently 6K followers, over half a year.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When I first started my instagram account, the motive behind it was clear and simple, and probably something many relate to - validation.&lt;/p&gt;
+
+&lt;p&gt;The idea that I could gather likes, comments, validation and perhaps even a large following on social media was incredibly enticing.&lt;/p&gt;
+
+&lt;p&gt;I never quite envied the artists who had thousands of followers, I had faith I would get there eventually. However I did feel impatience often. I was convinced it was only a matter of time before I hit the ever-changing follower goal I wanted, but of course, impatient throughout the process.&lt;/p&gt;
+
+&lt;p&gt;Over time I started to realize that to achieve my goal, I could - focus on getting better at art, OR, focus on understanding what performs well on instagram.&lt;/p&gt;
+
+&lt;p&gt;And given my goal at the time was chasing validation, it seemed more fruitful to spend time estimating the feasibility of gaming the system.&lt;/p&gt;
+
+&lt;p&gt;My first major epiphany was - probably something obvious at first glance, but was something I never questioned since it was ingrained into me since I was a child - the size of the art doesn’t transfer onto instagram. Everything’s on a phone screen at the end of the day.&lt;/p&gt;
+
+&lt;p&gt;And this observation would make quite the difference since I was accustomed to drawing pieces that were of A3 size. They would take 3-4 days to complete!&lt;/p&gt;
+
+&lt;p&gt;But once I realized that all art was normalized to fit into a phone screen, what difference would it make if the picture was A3 sized or A5 sized?&lt;/p&gt;
+
+&lt;p&gt;So, I started gradually lowering the size of the sketches I made.&lt;/p&gt;
+
+&lt;p&gt;Another insight I uncovered was that most popular artists had a specific ‘page aesthetic’. Meaning, when you would visit their profile, the color palette was similar across all posts, or the photography of the art was similar, or the general vibe was consistent.&lt;/p&gt;
+
+&lt;p&gt;This seemed challenging to mimic at first because this meant committing to a certain art style. I tried experimenting with different things but it was hard to decide which style to commit to since each of them were fun in their own way.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, thanks to a certain pandemic, when I relocated from my work city to my hometown, I forgot to bring home my color instruments.&lt;/p&gt;
+
+&lt;p&gt;I was stuck with black pens and fineliners. Which actually worked out quite well for me since I was finally - albeit forced to - commit to a specific art style.&lt;/p&gt;
+
+&lt;p&gt;This allowed me to nail the page aesthetic aspect as well.&lt;/p&gt;
+
+&lt;p&gt;The next step was to observe my artist idols more carefully, and I noticed that a subset of trending posts came from a specific set of animes. These animes seemed to be popular, I imagined, so I too started drawing those kinds of anime.&lt;/p&gt;
+
+&lt;p&gt;Lucky for me, I’d seen most of those anime in the past so I could relate to what I was drawing and thus had some more incentive aside from validation.&lt;/p&gt;
+
+&lt;p&gt;This worked to a nice extent. Finding a set of hashtags that worked also helped boost my reach over time. And then came the final step in the whole game plan - posting daily.&lt;/p&gt;
+
+&lt;p&gt;This was challenging at first - and still is - but I think its resulted in numerous side benefits I didn’t imagine, when I started. Them being -&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;It’s shown me there’s really only will power stopping me from doing most things I want to&lt;/li&gt;
+  &lt;li&gt;It’s shown me that when you commit to something publicly, and actually keep at it, you inspire others&lt;/li&gt;
+  &lt;li&gt;It’s shown me that people respect you when you can stick to your commitments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once lockdown was imposed, I decided to start drawing and posting daily. Not because I had time - no, no, nothing much changed in that aspect - but because I noticed everyone else claiming that it’s important to make the most of this time.&lt;/p&gt;
+
+&lt;p&gt;So yeah, part of me started committing to this challenge of posting daily just to have a good answer to “So how’d you spend your time in quarantine?”&lt;/p&gt;
+
+&lt;p&gt;But sure, over time I saw the benefits described above.&lt;/p&gt;
+
+&lt;p&gt;As the days passed, my account grew larger. Eventually there came a point when I hit 5K followers. This is when things started to change.&lt;/p&gt;
+
+&lt;p&gt;Ordinarily, the person who I was when I started this whole endeavor would’ve been overjoyed at hitting this milestone, but I noticed something more disturbing.&lt;/p&gt;
+
+&lt;p&gt;I had become dependent on instagram for social validation. I realized that my mood was affected by the performance of the most recent post. Days where I grew by more followers seemed better than days I didn’t.&lt;/p&gt;
+
+&lt;p&gt;And this seemed unhealthy. How could I have let my mood be affected by an algorithm? Yeah, not a good place to be.&lt;/p&gt;
+
+&lt;p&gt;So I started telling myself to focus more on art. And focus less on numbers beyond my control. I seemed to have let myself believe I was good at art because I was getting likes and follows but the truth was, I was good at art because I had a decent understanding of anatomy, perspective and proportion.&lt;/p&gt;
+
+&lt;p&gt;This is still an ongoing process, and its still easy to fall prey to older thought patterns when my posts perform well and I want to feel happy about them, but as measures to counter this, I’ve started making a conscious attempt to not look at my follower or like count, and instead focus on what I really want to draw.&lt;/p&gt;
+
+&lt;p&gt;I’m far from being able to say I no longer care about my reach and even if it were to drop or spike, I would remain unaffected, but I suppose baby steps too will eventually get me to where I want to be.&lt;/p&gt;
+
+&lt;p&gt;That, and I’ll probably need to invest some time into researching recommended ways of suppressing the craving for social media validation.&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
