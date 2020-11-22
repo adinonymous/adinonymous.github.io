@@ -41,7 +41,7 @@ The story is given closure with Theo and Madeline, meeting at the base of
 
 #### The experience
 
-![img](http://www.celestegame.com/images/completes/complete-7.png)
+![Imgur](https://imgur.com/iqzSHVb.png)
 
 One might say the game is about a girl who wants to climb a mountain. 
 
@@ -71,7 +71,7 @@ While watching Madeline accept Badeline, I could feel the accompanying stren
 
 It all felt cathartic. 
 
-![img](http://www.celestegame.com/images/completes/complete-6.png)
+![Imgur](https://imgur.com/4k5VNv4.png)
 
 ---
 
@@ -140,4 +140,4 @@ Celeste has raised my bar for platformers - in fact I may find it unfair to c
 
 I'm glad I played it. 
 
-![img](http://www.celestegame.com/images/completes/complete-8.png)
+![img](https://i.imgur.com/Tv82txd.png)
