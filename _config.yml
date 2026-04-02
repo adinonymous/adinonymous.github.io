@@ -1,5 +1,5 @@
 site: Adinonymous
-url: #yoururl
+url: "https://adinonymous.github.io"
 title: Adinonymous
 description: A smol anonymous blog
 twitter:
@@ -60,3 +60,4 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      comments: true

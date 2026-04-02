@@ -5,8 +5,30 @@ layout: default
 <section class="post">
   <h2>{{ page.title }}</h2>
   {{ content }}
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}
-    <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
-</section>
+  <span class="meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%B %-d, %Y" }}
+    </time>
+    &middot;
+    {% for tag in page.tags %}
+      <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </span>
 
+  <div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+  this.page.url = "{{ page.url | absolute_url }}";
+  this.page.identifier = "{{ page.url }}";
+};
+
+(function() {
+  var d = document, s = d.createElement('script');
+  s.src = 'https://adinonymous.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view comments.</noscript>
+</section>
 

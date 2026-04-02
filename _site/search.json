@@ -2,12 +2,45 @@
   
     {
 
+      "title"    : "Why Celeste is fantastic",
+      "url"      : "/2020/11/20/why-celeste-is-fantastic",
+      "category" : "",
+      "tags"     : "gaming, personal",
+      "date"     : "2020-11-20 00:00:00 -0800",
+      "description" : "A tribute to a newfound favorite game"
+
+    } ,
+  
+    {
+
+      "title"    : "Some introspection on my instagram journey",
+      "url"      : "/2020/10/03/hitting-ten-thousand-instagram-followers",
+      "category" : "",
+      "tags"     : "personal, art",
+      "date"     : "2020-10-03 00:00:00 -0700",
+      "description" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Lessons learnt from uploading art on instagram",
       "url"      : "/2020/07/03/lessons-from-art-instagram",
       "category" : "",
       "tags"     : "art, personal",
-      "date"     : "2020-07-03 00:00:00 +0530",
+      "date"     : "2020-07-03 00:00:00 -0700",
       "description" : "Lessons learnt from uploading art on instagram"
+
+    } ,
+  
+    {
+
+      "title"    : "Attack on Titan is amazing",
+      "url"      : "/2020/04/17/attack-on-titan-appreciation-post",
+      "category" : "",
+      "tags"     : "personal, anime",
+      "date"     : "2020-04-17 00:00:00 -0700",
+      "description" : ""
 
     } 
   
