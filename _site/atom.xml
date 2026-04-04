@@ -4,13 +4,105 @@
  <title>Adinonymous</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2026-04-01T19:35:12-07:00</updated>
+ <updated>2026-04-04T00:07:41-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Culinary Deep Dive:&amp;nbspOnions</title>
+   <link href="http://localhost:4000/2026/04/03/deep-dive-onions"/>
+   <updated>2026-04-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2026/04/03/deep-dive-onions</id>
+   <content type="html">&lt;p&gt;The year of 2025 was the year I first began cooking for myself. Now, in my culture, onions are an essential ingredient, to call a meal a complete one.&lt;/p&gt;
+
+&lt;p&gt;So let’s study this vegetable.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;composition&quot;&gt;Composition&lt;/h2&gt;
+
+&lt;p&gt;Onions are 85-90% water. They’ve got sulfur (this makes you cry), sugars (polysaccharides like sucrose and monosaccharides like glucose and fructose), and structure keeping the cells rigid.&lt;/p&gt;
+
+&lt;p&gt;Cooking an onion is an interplay with these building blocks.&lt;/p&gt;
+
+&lt;p&gt;Each cell in an onion is filled with water and other compounds, and chopping an onion breaks the structural walls (a polysaccharide named pectin) holding these contents together.&lt;/p&gt;
+
+&lt;p&gt;So sulfur is released, and chemical reactions start kicking off, including on the surface of your eyes.&lt;/p&gt;
+
+&lt;h2 id=&quot;heat&quot;&gt;Heat&lt;/h2&gt;
+
+&lt;p&gt;Heating defines how the contents of the onion break down.&lt;/p&gt;
+
+&lt;h3 id=&quot;low-heat-sweating&quot;&gt;Low Heat: Sweating&lt;/h3&gt;
+
+&lt;p&gt;Prior to any heat, onion cells have water inside, and rigid walls with some air gaps around.&lt;/p&gt;
+
+&lt;p&gt;At low heats, onions start releasing their water at a cellular level. This softens them, and the heat starts breaking down the cell walls.&lt;/p&gt;
+
+&lt;p&gt;As these cell walls break down, cells lose their shapes. The air gaps around these cell walls also start vanishing, and get filled by water and liquid (dissolved sugars/sulfur).&lt;/p&gt;
+
+&lt;p&gt;Now, with the air gaps gone, and mostly fluid/water and broken down cell walls being the majority, the physical boundaries in the cells reduce, and a more uniform medium is created.&lt;/p&gt;
+
+&lt;p&gt;Light can pass through this medium, in thin layers. This is when the translucency starts appearing.&lt;/p&gt;
+
+&lt;p&gt;Structurally, this signals the softness of the onion.&lt;/p&gt;
+
+&lt;h3 id=&quot;medium-heat-browning&quot;&gt;Medium Heat: Browning&lt;/h3&gt;
+
+&lt;p&gt;Once the water has evaporated, its time for the onions to begin browning.&lt;/p&gt;
+
+&lt;p&gt;Browning in onions happens by 2 simultaneous chemical processes:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Caramellization&lt;/li&gt;
+  &lt;li&gt;Maillard Reaction&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;caramellization&quot;&gt;Caramellization&lt;/h4&gt;
+&lt;p&gt;Heat enables endothermic reactions. Breaking stable molecules into reactive pieces, enabling more complex reactions.&lt;/p&gt;
+
+&lt;p&gt;This kicks in at ~160° C.&lt;/p&gt;
+
+&lt;p&gt;The sugars in the onions: glucose, fructose, sucrose - at these temperatures start to break down into reactive, smaller molecules.&lt;/p&gt;
+
+&lt;p&gt;At this heat, dehydration also kicks in, we are past the 100° C point here.&lt;/p&gt;
+
+&lt;p&gt;The smaller molecules form caramellization product polymers.&lt;/p&gt;
+
+&lt;h4 id=&quot;maillard-reaction&quot;&gt;Maillard Reaction&lt;/h4&gt;
+&lt;p&gt;The maillard reaction is a chemical process that happens even across other common foods, and involves sugars and amino acids (proteins).&lt;/p&gt;
+
+&lt;p&gt;This process kicks in at ~140° C, and gets going between 150-180° C.&lt;/p&gt;
+
+&lt;p&gt;I tried reading up on this but it gets increasingly chemical past the point of intuitiveness.&lt;/p&gt;
+
+&lt;p&gt;From a first principles perspective, the summary is - amino acids and sugars, under heat, combine to form an unstable intermediate compound, which begins breaking down into amines and other compounds, which kick off a chain of reactions - each creating a complex flavor.&lt;/p&gt;
+
+&lt;p&gt;Water, consequently, can dilute reactants and lower temperature – thereby slowing down browning. And so the dehydration accelerates browning.&lt;/p&gt;
+
+&lt;p&gt;Conversely, since we’re dealing with amines, a basic environment/higher pH will accelerate Maillard reaction. So adding baking soda increases browning.&lt;/p&gt;
+
+&lt;p&gt;What’s interesting is that, at this stage, sometimes these brown bits start sticking to the base of your pan. Removing them is just a matter of adding a bit of water, since these compounds are all water-soluble. So hydrate and spread around again for even flavor.&lt;/p&gt;
+
+&lt;h3 id=&quot;extended-medium-heat-deep-caramellization&quot;&gt;Extended Medium Heat: Deep Caramellization&lt;/h3&gt;
+&lt;p&gt;At low-medium heat for an extended duration, when onions break down to near paste-like consistency, the sugars have undergone extensive reactions and polymerization.&lt;/p&gt;
+
+&lt;h2 id=&quot;with-acids&quot;&gt;With Acids&lt;/h2&gt;
+
+&lt;p&gt;The reason people add a sprinkle of lime extract, or a slice of lime, alongside onion-based dishes like egg fried rice, or biryani, is because the acidity from the lime helps keeps the pectin stabilized.&lt;/p&gt;
+
+&lt;p&gt;Recall that pectin is what the onion cell walls are made of. The acidity helps preserve the crispiness of the onions.&lt;/p&gt;
+
+&lt;h2 id=&quot;closing&quot;&gt;Closing&lt;/h2&gt;
+
+&lt;p&gt;It’s funny, as a child I hated onions. I still go back and forth on them. I wouldn’t eat a plain onion. But I would add onions to my egg fried rice. I wouldn’t eat onions in my sambar/dal, but I would eat onion dip. I wouldn’t eat them on my pizza, but I would want them on my dosas.&lt;/p&gt;
+
+&lt;p&gt;Who would have thought I’d sit down and study an onion?&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Why Celeste is fantastic</title>

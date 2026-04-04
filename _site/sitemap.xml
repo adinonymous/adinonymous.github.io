@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2026-04-01T19:35:12-07:00</lastmod>
+<lastmod>2026-04-04T00:07:41-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/search</loc>
-<lastmod>2026-04-01T19:35:12-07:00</lastmod>
+<lastmod>2026-04-04T00:07:41-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2020/04/17/attack-on-titan-appreciation-post</loc>
@@ -23,6 +23,10 @@
 <url>
 <loc>http://localhost:4000/2020/11/20/why-celeste-is-fantastic</loc>
 <lastmod>2020-11-20T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2026/04/03/deep-dive-onions</loc>
+<lastmod>2026-04-03T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/old%20posts/2014-05-12-css-hacks-you-may-not-know/</loc>

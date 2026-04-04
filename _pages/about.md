@@ -1,16 +1,26 @@
 ---
 layout: page
-title: About me
+title: Who I am
 ---
 
-Hello internet. I go by the pseudonym - Adinonymous. But that's cumbersome to repeat, so you can just call me Adi.
+I am a man who finds joy in solving problems. 
 
-I have no intention to commit to any goals that this blog will endeavor to achieve.
+Growing up, I internalized the notion that intelligence was the most important asset to excel in society. Of course, over time, more graceful virtues such as patience, kindness, and empathy took that spot, but my intelligence remains the undefeated champion when it comes to justifying my pride. 
 
-This is only a place to dump my thoughts, ideas and opinions.
+And so, there's even more joy, in solving a problem that most others can't solve.
 
-Most of my content would revolve around what I'm passionate about - art, TV shows/movies/anime, introspections and lessons I picked up - firsthand or secondhand.
+Hard problems often exist in multivariate systems. 
 
-That being said, if you are a reader whom I have not personally entrusted my identity to, I hope you enjoy my content.
+And so I enjoy working with systems. Understanding them. _Solving_ them. Eternally optimizing them. 
 
-Also, this is the first time I'm embracing anonymity. I expect a different adventure, and today is the first step!
+But all of that, comes with a heavy toll on the mind. 
+
+When everything is a system with loss functions to minimize, life becomes an unbounded problem space where there is never room for failure. Where your actions must always optimize, or you are failing.
+
+This blog is an escape from that life. 
+
+A safe little cavern of mine on the internet, where I can, with no forcing function, breathe. 
+
+And while I recover from the heavy never-ending snowstorm that is my life, raging outside, come join me and sit by my little fire. Let me regale you with my stories, for this storm is a lonely one.
+
+![img](../../assets/campfire.jpg)
