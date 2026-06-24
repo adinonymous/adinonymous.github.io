@@ -1,6 +1,6 @@
-# Art Gallery
+# Art Gallery Gallery
 
-Drop your images and videos here. They will automatically appear on the Art page.
+Drop your images and videos directly into the **`assets/`** folder and they will automatically appear on the Art page.
 
 ## Supported Formats
 
@@ -9,12 +9,12 @@ Drop your images and videos here. They will automatically appear on the Art page
 
 ## How to Add Artwork
 
-Simply place files in this folder and commit them:
+Simply place files in the `assets/` folder and commit them:
 
 ```bash
 # Example: Add a new artwork
-cp ~/Downloads/my-artwork.jpg _art/
-git add _art/my-artwork.jpg
+cp ~/Downloads/my-artwork.jpg assets/
+git add assets/my-artwork.jpg
 git commit -m "Add new artwork"
 ```
 

@@ -11,21 +11,26 @@ permalink: /art/
   <p>A collection of my photos and videos.</p>
 
   <div class="art-gallery-grid">
-    {% for file in site.data.art_files %}
-      {% if file.type == 'image' %}
-        <div class="art-gallery-item">
-          <a href="/{{ file.filename }}" class="art-gallery-link" data-lightbox="art">
-            <img src="/{{ file.filename }}" alt="{{ file.name }}" loading="lazy">
-          </a>
-        </div>
-      {% elsif file.type == 'video' %}
-        <div class="art-gallery-item">
-          <a href="/{{ file.filename }}" class="art-gallery-link" data-lightbox="art">
-            <video muted loop autoplay playsinline preload="metadata">
-              <source src="/{{ file.filename }}" type="video/mp4">
-            </video>
-          </a>
-        </div>
+    {% for file in site.static_files %}
+      {% assign parts = file.path | split: '/' %}
+      {% if parts[1] == 'assets' and parts.size == 3 %}
+        {% assign ext = file.path | split: '.' | last | downcase %}
+        {% assign name = file.basename | replace: '_', ' ' | capitalize %}
+        {% if ext == 'jpg' or ext == 'jpeg' or ext == 'png' or ext == 'gif' or ext == 'webp' or ext == 'svg' %}
+          <div class="art-gallery-item">
+            <a href="{{ file.path }}" class="art-gallery-link" data-lightbox="art">
+              <img src="{{ file.path }}" alt="{{ name }}" loading="lazy">
+            </a>
+          </div>
+        {% elsif ext == 'mp4' or ext == 'mov' or ext == 'webm' or ext == 'mkv' %}
+          <div class="art-gallery-item">
+            <a href="{{ file.path }}" class="art-gallery-link" data-lightbox="art">
+              <video muted loop autoplay playsinline preload="metadata">
+                <source src="{{ file.path }}" type="video/mp4">
+              </video>
+            </a>
+          </div>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </div>
