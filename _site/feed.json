@@ -8,7 +8,7 @@
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
-    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    "author": "{"twitter" => nil, "name" => nil, "avatar" => nil, "email" => nil, "url" => nil}",
     
 "items": [
     
@@ -28,7 +28,7 @@
             "date_modified": "2026-04-03T00:00:00-07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter" => nil, "name" => nil, "avatar" => nil, "email" => nil, "url" => nil}"
                 
             
         },
@@ -49,7 +49,7 @@
             "date_modified": "2020-11-20T00:00:00-08:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter" => nil, "name" => nil, "avatar" => nil, "email" => nil, "url" => nil}"
                 
             
         },
@@ -70,7 +70,7 @@
             "date_modified": "2020-10-03T00:00:00-07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter" => nil, "name" => nil, "avatar" => nil, "email" => nil, "url" => nil}"
                 
             
         },
@@ -91,7 +91,7 @@
             "date_modified": "2020-07-03T00:00:00-07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter" => nil, "name" => nil, "avatar" => nil, "email" => nil, "url" => nil}"
                 
             
         },
@@ -112,7 +112,7 @@
             "date_modified": "2020-04-17T00:00:00-07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter" => nil, "name" => nil, "avatar" => nil, "email" => nil, "url" => nil}"
                 
             
         }
